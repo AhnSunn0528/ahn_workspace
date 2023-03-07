@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Main from './Main';
-import Study from './Study';
-import State from './State';
+import State from './study/State';
 
 function App() {
   return (
